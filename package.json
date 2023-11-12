@@ -1,0 +1,17 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "weather cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anton",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "8.53.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.1"
+  }
+}
